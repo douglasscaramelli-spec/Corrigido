@@ -1,0 +1,12 @@
+{
+  "name": "Genesis 3D",
+  "short_name": "Genesis 3D",
+  "description": "Calculadora, orçamentos, pedidos e modelos da Genesis Prototipagem.",
+  "lang": "pt-BR",
+  "start_url": "./corrigido.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f0d17",
+  "theme_color": "#0f0d17",
+  "orientation": "portrait-primary"
+}
